@@ -5,9 +5,142 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #121212;;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.root-layout {
+  display: flex;
+  height: 100vh;
+  color: white;
+  background-color: #121212;
+}
+
+.page-content {
+  padding: 20px;
+}
+
+/* SIDE NAVIGATION BAR START */
+.sidebar {
+  position: fixed;
+  height: 100vh;
+  width: 250px;
+  top: 0;
+  left: 0;
+
+  background-color: #121212;
+  padding: 20px;
+  min-width: 250px;
+  box-shadow: 2px 0 5px rgba(255,255,255,0.1); /* Add a slight shadow for depth */
+  display: flex;
+  flex-direction: column; /* Align nav-links vertically */
+}
+
+.navbar-logo {
+  display: block; /* Ensures the logo is treated as block level for margin auto to work */
+  margin: 0 auto 20px auto; /* Top and bottom margins are 0 and auto for left and right */
+  width: 80%; /* Adjust this value as needed to fit your logo size while keeping it centered */
+  max-height: 90px; /* Optional: limits the logo's height, adjust as needed */
+}
+
+.link, .active-link {
+  font-size: 1.25em;
+  padding: 15px 10px;
+  margin-bottom: 2px; /* Space between links */
+  text-decoration: none; /* Remove underline from links */
+  color: white; /* Link text color */
+  border-radius: 4px; /* Rounded corners for links */
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  transition: background-color 0.2s;
+}
+
+.link:hover, .active-link, .active-link:hover {
+  background-color: #222222; /* Change to match the active-link background color on hover */
+}
+
+/* SIDE NAVIGATION BAR END */
+
+/* MAIN CONTENT */
+.content {
+  margin-left: 300px;
+  flex-grow: 1; /* Enables the main content to fill the remainder of the viewport. */
+  overflow: auto;
+}
+
+/* GAME CARDS AND GAME CARD LISTS START */
+.game-cards-container {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 10px;
+}
+
+.game-card {
+  width: calc((80vw - 240px) / 6);
+  min-width: 160px;
+  height:fit-content;
+  border-radius: 8px;
+  overflow: hidden;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  cursor: pointer;
+}
+
+.game-image {
+  width: 100%;
+  height: calc((100% - 100px));
+  object-fit: cover;
+}
+
+.game-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.game-title {
+  font-weight: bold;
+  padding: 5px;
+  text-align: left;
+  max-height: 50px;
+}
+
+.game-pricing {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px;
+}
+
+.game-pricing.sale {
+  display: flex;
+  justify-content: space-between; /* Space out the pricing */
+  align-items: center; /* Align items in the middle */
+  padding: 10px;
+}
+
+.discount {
+  padding: 0 4px;
+  border-radius: 4px;
+  background-color: blue;
+}
+
+.store-price {
+  text-decoration: line-through;
+  color: #999;
+}
+
+.current-price {
+  color: #fff;
+  margin-left: 4px;
+}
+
+/* GAME CARDS AND GAME CARD LISTS END */

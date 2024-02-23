@@ -1,0 +1,308 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Marvel's Spider-Man Remastered",
+      "store-price": "$59.99",
+      "current-price": "$50.99",
+      "discount": 0.15,
+      "star-rating": 4.5,
+      "rating": "Teen",
+      "rating-description": "Blood, Mild Suggestive Themes, Language, Drug Reference, Violence",
+      "developer": "Insomniac Games, Nixxes Software",
+      "publisher": "PlayStation PC LLC",
+      "release-date": "2022-08-12",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "description": "In Marvel's Spider-Man Remastered, the worlds of Peter Parker and Spider-Man collide in an original, action-packed story. Play as an experienced Peter Parker, fighting big crime and iconic villains in Marvel's New York. Web-swing through vibrant neighborhoods and defeat villains with epic takedowns.",
+      "card-image-url": "https://cdn1.epicgames.com/offer/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S2_1200x1600-76424286902489f4d9639ac9b735c2b2?h=480&quality=medium&resize=1&w=360",
+      "store-image-url": "https://cdn2.unrealengine.com/egs-marvelsspidermanremastered-insomniacgamesnixxessoftware-g1a-00-1920x1080-25b4862bff3b.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Grand Theft Auto V: Premium Edition",
+      "store-price": "$29.99",
+      "current-price": "$29.99",
+      "discount": 0,
+      "star-rating": 4.3,
+      "rating": "Mature",
+      "rating-description": "Intense Violence, Blood and Gore, Nudity, Mature Humor, Strong Language, Strong Sexual Content, Use of Drugs and Alcohol",
+      "developer": "Rockstar Games",
+      "publisher": "Rockstar Games",
+      "release-date": "2020-05-14",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "description": "The Grand Theft Auto V: Premium Edition includes the complete GTAV story, Grand Theft Auto Online and all existing gameplay upgrades and content. You'll also get the Criminal Enterprise Starter Pack, the fastest way to jumpstart your criminal empire in GTA Online.",
+      "card-image-url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait%20Store%20Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg?h=480&quality=medium&resize=1&w=360",
+      "store-image-url": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_1920x1080_Hero-Carousel_V06-1920x1080-1503e4b1320d5652dd4f57466c8bcb79424b3fc0.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Red Dead Redemption 2",
+      "store-price": "$59.99",
+      "current-price": "$59.99",
+      "discount": 0,
+      "star-rating": 4.8,
+      "rating": "Mature",
+      "rating-description": "Blood and Gore, Intense Violence, Nudity, Sexual Content, Strong Language, Use of Drugs and Alcohol",
+      "developer": "Rockstar Games",
+      "publisher": "Rockstar Games",
+      "release-date": "2019-11-05",
+      "genres": [
+        "Action",
+        "Narration",
+        "Open World"
+      ],
+      "description": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, Red Dead Redemption 2 is an epic tale of honor and loyalty at the dawn of the modern age. Includes Red Dead Redemption 2: Story Mode and Red Dead Online.",
+      "card-image-url": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic%20Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg?h=480&quality=medium&resize=1&w=360",
+      "store-image-url": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fheather%2Fhome%2FEGS_RockstarGames_RedDeadRedemption2_G1A_00-1920x1080-308f101576da37225c889173094f373f2afc56c1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Cyberpunk 2077",
+      "store-price": "$59.99",
+      "current-price": "$59.99",
+      "discount": 0,
+      "star-rating": 4.6,
+      "rating": "Mature",
+      "rating-description": "Blood and Gore, Intense Violence, Nudity, Strong Language, Strong Sexual Content, Use of Drugs and Alcohol",
+      "developer": "CD PROJEKT RED",
+      "publisher": "CD PROJEKT RED",
+      "release-date": "2020-12-09",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Open World",
+        "RPG"
+      ],
+      "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+      "card-image-url": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5?h=480&quality=medium&resize=1&w=360",
+      "store-image-url": "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-g1a-04-02-24-22-1920x1080-e44528f4fa16.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Dead Island 2",
+      "store-price": "$59.99",
+      "current-price": "$59.99",
+      "discount": 0,
+      "star-rating": 4.5,
+      "rating": "Mature",
+      "rating-description": "Intense Violence, Blood and Gore, Suggestive Themes, Strong Language, Use of Drugs",
+      "developer": "Deep Silver Dambuster Studios",
+      "publisher": "Deep Silver",
+      "release-date": "2023-04-21",
+      "genres": [
+        "Action",
+        "Horror"
+      ],
+      "description": "A deadly virus is spreading across Los Angeles, turning inhabitants into zombies. Bitten, infected, but more than just immune, uncover the truth behind the outbreak and discover who -or what- you are.",
+      "card-image-url": "https://cdn1.epicgames.com/offer/236c74b4cd2e4e3099cbe2ebdc9686fd/EGS_DeadIsland2_DeepSilverDambusterStudios_S2_1200x1600-efc5201842cf642eb45f73227cd0789b?h=480&quality=medium&resize=1&w=360",
+      "store-image-url": "https://cdn2.unrealengine.com/egs-deadisland2-deepsilverdambusterstudios-g1a-00-1920x1080-957ca6fac0ba.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Dead By Daylight",
+      "store-price": "$19.99",
+      "current-price": "$14.99",
+      "discount": 0.25,
+      "star-rating": 4.5,
+      "rating": "Mature",
+      "rating-description": "Blood and Gore, Intense Violence, Strong Language",
+      "developer": "Behaviour Interactive",
+      "publisher": "Behaviour Interactive",
+      "release-date": "2021-12-09",
+      "genres": [
+        "Action",
+        "Survival"
+      ],
+      "description": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
+      "card-image-url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylight_BehaviourInteractive_S2_1200x1600-a1c30209e3b9fb63144daa9b5670f503?h=480&quality=medium&resize=1&w=360",
+      "store-image-url": "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-g1a-02-1920x1080-04e754d3e831.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Hogwarts Legacy",
+      "store-price": "$59.99",
+      "current-price": "$59.99",
+      "discount": 0,
+      "star-rating": 4.9,
+      "rating": "Teen",
+      "rating-description": "Fantasy Violence, Blood, Mild Language, Use of Alcohol",
+      "developer": "Avalanche Software",
+      "publisher": "Warner Bros. Games",
+      "release-date": "2023-02-10",
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "description": "Hogwarts Legacy is an immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world.",
+      "card-image-url": "https://cdn1.epicgames.com/offer/e97659b501af4e3981d5430dad170911/EGS_HogwartsLegacy_AvalancheSoftware_S2_1200x1600-2bb94423bf1c7e2fca10577d9f2878b9?h=480&quality=medium&resize=1&w=360",
+      "store-image-url": "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1a-00-1920x1080-6ae741e030bb.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Avatar: Frontiers of Pandora",
+      "store-price": "$69.99",
+      "current-price": "$69.99",
+      "discount": 0,
+      "star-rating": 4.4,
+      "rating": "Teen",
+      "rating-description": "Language, Violence, Mild Blood",
+      "developer": "Massive Entertainment - A Ubisoft Studio",
+      "publisher": "Ubisoft",
+      "release-date": "2023-12-06",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "description": "In Avatar: Frontiers of Pandora™, you'll embark on a journey across the open world of the never-before-seen Western Frontier. Reconnect with your lost heritage and discover what it means to become Na'vi as you join other clans to protect Pandora from the formidable forces of the RDA.",
+      "card-image-url": "https://cdn1.epicgames.com/offer/eca39884bdf14f65af242a8e3ff5b2d9/EGST_StorePortrait_1200x1600_1200x1600-201e8f02dd794c678599d0dcb66d078e?h=480&quality=medium&resize=1&w=360",
+      "store-image-url": "https://cdn2.unrealengine.com/1-soartheskies-3840x2160-3840x2160-7a05a89cfd66.png"
+    },
+    {
+      "id": 9,
+      "title": "The Lord of The Rings: Return to Moria",
+      "store-price": "$39.99",
+      "current-price": "$39.99",
+      "discount": 0,
+      "star-rating": 4.3,
+      "rating": "Teen",
+      "rating-description": "Blood, Use of Alcohol, Violence",
+      "developer": "Free Range Games",
+      "publisher": "North Beach Games",
+      "release-date": "2023-10-24",
+      "genres": [
+        "Action-Adventure",
+        "Survival"
+      ],
+      "description": "The only survival crafting game set in the Fourth Age of Middle-earth™, the iconic fantasy world created by J.R.R. Tolkien.",
+      "card-image-url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-tr0c9.png?h=480&quality=medium&resize=1&w=360",
+      "store-image-url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-kgzdl.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Assassin's Creed® Mirage",
+      "store-price": "$49.99",
+      "current-price": "$49.99",
+      "discount": 0,
+      "star-rating": 4.6,
+      "rating": "Mature",
+      "rating-description": "Intense Violence, Blood and Gore, Strong Language, Drug Reference",
+      "developer": "Ubisoft",
+      "publisher": "Ubisoft",
+      "release-date": "2023-10-05",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "description": "Experience the story of Basim, a cunning street thief with nightmarish visions, seeking answers and justice as he navigates the bustling streets of ninth-century Baghdad. Through a mysterious, ancient organization known as the Hidden Ones, he will become a deadly Master Assassin and change his fate in ways he never could have imagined.",
+      "card-image-url": "https://cdn1.epicgames.com/offer/9bcf5a4dc1d54cb6ab1a42f3a70c5cf4/Carousel_BoxArt_1200x1600_1200x1600-38bda67bb1290f58e8a18ddc38a3c0ec?h=480&quality=medium&resize=1&w=360",
+      "store-image-url": "https://cdn2.unrealengine.com/breaker-image-1920x1080-1920x1080-9b4788ed14ab.png"
+    },
+    {
+      "id": 11,
+      "title": "Tom Clancy's Rainbow Six® Siege",
+      "store-price": "$19.99",
+      "current-price": "$19.99",
+      "discount": 0,
+      "star-rating": 4.4,
+      "rating": "Mature",
+      "rating-description": "Blood, Drug Reference, Strong Language, Violence",
+      "developer": "Ubisoft",
+      "publisher": "Ubisoft",
+      "release-date": "2022-12-01",
+      "genres": [
+        "Action",
+        "Shooter",
+        "Strategy"
+      ],
+      "description": "\"One of the best first-person shooters ever made.\" 10\\10 —GameSpot  Tom Clancy's Rainbow Six® Siege is an elite, realistic, tactical, team-based shooter where superior planning and execution triumph. It features 5v5 attack vs. defense gameplay and intense close-quarters combat in destructible environments.",
+      "card-image-url": "https://cdn1.epicgames.com/offer/carnation/Carousel_BoxArt_1200x1600_1200x1600-6888b9d57181d8fcfb3472a7f70ecc49?h=480&quality=medium&resize=1&w=360",
+      "store-image-url": "https://cdn2.unrealengine.com/share-image-1920x1080-3-1920x1080-ec57f96b796a.png?h=270&quality=medium&resize=1&w=480"
+    },
+    {
+      "id": 12,
+      "title": "God of War",
+      "store-price": "$49.99",
+      "current-price": "$49.99",
+      "discount": 0,
+      "star-rating": 4.9,
+      "rating": "Mature",
+      "rating-description": "Intense Violence, Blood and Gore, Strong Language",
+      "developer": "Santa Monica Studio",
+      "publisher": "PlayStation PC LLC",
+      "release-date": "2022-01-14",
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "description": "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same. ",
+      "card-image-url": "https://cdn1.epicgames.com/offer/3ddd6a590da64e3686042d108968a6b2/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7_1200x1600-fbdf3cbc2980749091d52751ffabb7b7?h=480&quality=medium&resize=1&w=360",
+      "store-image-url": "https://cdn2.unrealengine.com/egs-godofwar-santamonicastudio-g1a-01-1920x1080-c84d2a96aea3.jpg"
+    },
+    {
+      "id": 13,
+      "title": "The Last of Us™ Part I",
+      "store-price": "$59.99",
+      "current-price": "$59.99",
+      "discount": 0,
+      "star-rating": 4.7,
+      "rating": "Mature",
+      "rating-description": "Blood and Gore, Intense Violence, Sexual Themes, Strong Language, Use of Alcohol",
+      "developer": "Naughty Dog LLC",
+      "publisher": "PlayStation PC LLC",
+      "release-date": "2023-03-28",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "description": "Experience the emotional storytelling and unforgettable characters in The Last of Us™, winner of over 200 Game of the Year awards.",
+      "card-image-url": "https://cdn1.epicgames.com/offer/0c40923dd1174a768f732a3b013dcff2/EGS_TheLastofUsPartI_NaughtyDogLLC_S2_1200x1600-41d1b88814bea2ee8cb7986ec24713e0?h=480&quality=medium&resize=1&w=360",
+      "store-image-url": "https://cdn2.unrealengine.com/egs-thelastofusparti-naughtydogllc-g1a-04-1920x1080-b5b88ed3fd6a.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Prince of Persia: The Lost Crown",
+      "store-price": "$49.99",
+      "current-price": "$49.99",
+      "discount": 0,
+      "star-rating": 4.7,
+      "rating": "Teen",
+      "rating-description": "Violence, Blood, Mild Language",
+      "developer": "UBISOFT MONTPELLIER",
+      "publisher": "UBISOFT",
+      "release-date": "2024-01-17",
+      "genres": [
+        "Action"
+      ],
+      "description": "Dash into a stylish and thrilling action-adventure platformer set in a mythological Persian world where the boundaries of time and space are yours to manipulate. Play as Sargon and evolve from sword-wielding prodigy to extraordinary legend as you master acrobatic combat and unlock new Time Powers and unique super abilities.",
+      "card-image-url": "https://cdn1.epicgames.com/offer/22600f09e936468c8ecfc22b5eac7d7c/EGST_StorePortrait_1200x1600_1200x1600-54fe39c69e335bbe2c071ff53cfa0685?h=480&quality=medium&resize=1&w=360",
+      "store-image-url": "https://cdn2.unrealengine.com/1combat-manticore-lower-city-1920x1080-ac0cd39c8c74.jpg"
+    },
+    {
+      "id": 15,
+      "title": "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
+      "store-price": "$49.99",
+      "current-price": "$24.99",
+      "discount": 0.5,
+      "star-rating": 4.7,
+      "rating": "Everyone 10+",
+      "rating-description": "Fantasy Violence, Mild Blood, Use of Alcohol",
+      "developer": "Square Enix",
+      "publisher": "Square Enix",
+      "release-date": "2021-03-30",
+      "genres": [
+        "RPG"
+      ],
+      "description": "KINGDOM HEARTS HD 1.5 + 2.5 ReMIX is an HD remastered collection of 6 unforgettable KINGDOM HEARTS experiences. KINGDOM HEARTS HD 1.5 + 2.5 ReMIX is the perfect opportunity to start wielding your Keyblade to save the Disney worlds from darkness.",
+      "card-image-url": "https://cdn1.epicgames.com/4158b699dd70447a981fee752d970a3e/offer/EGS_KINGDOMHEARTSHD1525ReMIX_SquareEnix_S6-1200x1600-132fc1f63bf40a41cddbff3bab7acc52.jpg?h=480&quality=medium&resize=1&w=360",
+      "store-image-url": "https://cdn2.unrealengine.com/egs-kingdomheartshd1525remix-squareenix-g1a-00-1920x1080-c15f178b461f.jpg"
+    }
+  ]
+}
