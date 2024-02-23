@@ -16,6 +16,8 @@ import RootLayout from './layouts/RootLayout'
 
 import './App.css'
 
+// This variable is needed when configuring the project to be deployed as a subpath.
+const basename = process.env.PUBLIC_URL || '/'
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -26,7 +28,8 @@ const router = createBrowserRouter(
       <Route path="library" element={<Library />} />
       <Route path="profile" element={<Profile />} />
     </Route>
-  )
+  ),
+  { basename }
 )
 
 function App() {

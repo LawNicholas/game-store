@@ -10,7 +10,7 @@ const StoreFront = () => {
 
   const [games, setGames] = useState(null)
 
-  const getGames = async () => {
+  const getGames = () => {
     setGames(data.games)
   }
 
